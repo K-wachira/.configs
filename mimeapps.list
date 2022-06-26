@@ -1,0 +1,22 @@
+[Added Associations]
+video/mp4=vlc.desktop;
+application/pdf=org.gnome.Evince.desktop;
+application/x-ipynb+json=codium.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-LASZL1.desktop;
+application/mbox=thunderbird.desktop;microsoft-edge-dev.desktop;
+text/plain=codium.desktop;microsoft-edge-dev.desktop;
+application/json=microsoft-edge-dev.desktop;
+text/csv=codium.desktop;
+video/mp2t=vlc.desktop;
+image/gif=microsoft-edge-dev.desktop;
+text/html=notepadqq.desktop;
+
+[Default Applications]
+x-scheme-handler/webcal=microsoft-edge-dev.desktop
+x-scheme-handler/notion=notion-app.desktop
+text/html=notion-app.desktop
+x-scheme-handler/http=microsoft-edge-dev.desktop
+x-scheme-handler/https=microsoft-edge-dev.desktop
+x-scheme-handler/about=microsoft-edge-dev.desktop
+x-scheme-handler/unknown=microsoft-edge-dev.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-LASZL1.desktop
