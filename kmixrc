@@ -1,3 +1,12 @@
+[$Version]
+update_info=disable_kmix.upd:PlasmaVolume_DisableKMixAutostart
+
 [Configure]
-Height 1080=444
-Width 1920=619
+Height 1440=429
+Width 2560=654
+
+[Global]
+AutoStart=false
+VolumeFeedback=true
+VolumeOverdrive=true
+startkdeRestore=false
